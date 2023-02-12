@@ -1,7 +1,8 @@
 #include <iostream>
 #include <vector> 
 #include <array> 
-#include <algorithm> sa
+#include <algorithm> 
+
 using namespace std;
 int main() {
  array<array<int, 1000>, 1000> arr;
